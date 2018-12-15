@@ -1,7 +1,7 @@
- README
-#Ruby on Rails tutorial
+# README
+##Ruby on Rails tutorial
 
-##"Hello world!"
+###"Hello world!"
 
 This is my first application for the Ruby on Rails.
 
